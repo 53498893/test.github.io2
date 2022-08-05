@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://https://scholar.google.com.hk/citations?user=U5JYohMAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=U5JYohMAAAAJ"
   email            : "yan-nursing.li@polyu.edu.hk"
   researchgate     : #"https://www.researchgate.net/profile/Feng-Huang-38"
   uri              :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
       type: research
