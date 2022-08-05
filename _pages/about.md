@@ -8,42 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hey, this is HUANG Feng. Welcome to my homepage.
-
-I am a Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University, supervised by [Dr. Li-Ta HSU](https://www.polyu.edu.hk/aae/people/academic-staff/dr-lt-hsu/) and [Dr. Weisong WEN](https://www.polyu.edu.hk/aae/people/academic-staff/dr-weisong-wen/) at [Intelligent Positioning and Navigation Laboratory](https://www.polyu-ipn-lab.com/). My research interests including localization and sensor fusion for autonomous driving.
-
-Before that, I received my bachelor's degree from Shenzhen University in Automation in 2014 and MSc in Electronic Engineering at Hong Kong University of Science and Technology in 2016. I have 3 years of working experience in robotics. 
+Yan is an Assistant Professor at the School of Nursing, the Hong Kong Polytechnic University. She completed her postdoctoral training at Florence Nightingale Faculty of Nursing, Midwifery, and Palliative care from 2019-2020. Dr Li is a registered nurse with over 8 years of experience, and she is an active nurse researcher. Her research interest is spinal cord injury rehabilitation, psychosocial interventions, and mental health promotion. Her work was supported by Prof Ida Martinson Fund and King’s College London Global Research Grant. She has recently been awarded the Hong Kong Government Health and Medical Research Fund Research Fellowship to continue her research work and contribution towards local service innovation and research development in the area of mental health within spinal cord injury community rehabilitation. Dr Li has published around 20 peer-reviewed journal articles and she has served as a reviewer for the Journal of Nursing Scholarship, Disability and Rehabilitation, International Journal of Interprofessional Care, BMC geriatrics, Spinal Cord and Journal of Spine surgery.
 
 Education
 ======
 * The Hong Kong Polytechnic University
   * 2021.01 - present
-  * Ph.D student in the Department of Aeronautical and Aviation Engineering, Hong Kong Polytechnic University
+  
 
 * The Hong Kong University of Science and Technology
   * 2015.09 - 2016.11 
   * M.Sc in Electronic Engineering
 
-* Shenzhen University
-  * 2010.09 - 2014.06 
-  * B.Eng in Automation
 
-
-Working Experience
-======
-* Research Assistant in HKPolyU
-  * 2020-07 - 2020-12
-
-* Engineer in Planning and Control, PerceptIn 
-  * 2017-10 - 2020-06
-  * We developed two-seats and eight-seats autonomous vehicle, which targeting in lowspeed scenarios with collision-free. 
-
-* Project Intern of IoT, Division of CT, ASTRI
-  * 2016-07 - 2017-09
-  * Co-working for the first C-V2X demo in Hong Kong and presented in ITSHK 2017 with good response.
 
 Activities
 ======
 * I love playing tennis, used to be the minister at Tennis Club in Shenzhen University, Organized some events, such as recruiting new members, holding SZU "President Cup" Tennis Competition, etc.
 
-* Volunteer in Yim Tin Tsai, SaiKung of HKUST program and 26th Summer Universiade, Shenzhen, awarded the Silver award of Outstanding Volunteer by Futian Department Of Volunteers.
