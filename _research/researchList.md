@@ -9,8 +9,7 @@ redirect_from:
 
 
 ## Projects as Principal Investigator
-
-* [AI-driven Vaccine Communicator智能疫苗助理]: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong’s population. Principal Investigator (2021-2025), and this is one of the five studies under the project “A community-based participatory research approach to reduce the COVID-19 risk in Hong Kong: developing and testing social and behavioural interventions:” led by Prof Molasiotis Grant source: Health and Medical Research Fund, FHB, Commissioned Research on the Novel Coronavirus Disease (COVID-19).
+* AI-driven Vaccine Communicator智能疫苗助理: The impact of a Web-based psychoeducation programme with a motivational AI-based digital assistant on Covid-19 vaccine hesitancy in Hong Kong’s population. Principal Investigator (2021-2025), and this is one of the five studies under the project “A community-based participatory research approach to reduce the COVID-19 risk in Hong Kong: developing and testing social and behavioural interventions:” led by Prof Molasiotis Grant source: Health and Medical Research Fund, FHB, Commissioned Research on the Novel Coronavirus Disease (COVID-19).
 
 * Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors: A Pilot Randomized Controlled Trial; Health and Medical Research Fund—Research Fellowship Scheme. Principal Investigator, 01/Sep/2021- 01/Sep/2023. 
 
