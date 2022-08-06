@@ -12,8 +12,12 @@ Yan is an Assistant Professor at the School of Nursing, the Hong Kong Polytechni
 
 Education
 ======
+* King's College London: LONDON, GB
+  * 2019 - 2020
+  * Postdoctoral Training (Florence Nightingale Faculty of Nursing, Midwifery & Palliative Care) Qualification
+
 * The Hong Kong Polytechnic University
-  * 2017.10 - 2020
+  * 2017.10 - 2020.10
   * PhD  (School of Nursing)
   
 
