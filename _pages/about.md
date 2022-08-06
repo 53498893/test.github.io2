@@ -13,16 +13,10 @@ Yan is an Assistant Professor at the School of Nursing, the Hong Kong Polytechni
 Education
 ======
 * The Hong Kong Polytechnic University
-  * 2021.01 - present
+  * 2017.10 - 2020
+  * PhD  (School of Nursing)
   
-
-* The Hong Kong University of Science and Technology
-  * 2015.09 - 2016.11 
-  * M.Sc in Electronic Engineering
-
-
 
 Activities
 ======
-* I love playing tennis, used to be the minister at Tennis Club in Shenzhen University, Organized some events, such as recruiting new members, holding SZU "President Cup" Tennis Competition, etc.
-
+* I love  *****
