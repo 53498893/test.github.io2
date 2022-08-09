@@ -7,9 +7,14 @@ redirect_from:
   - /teaching
 ---
 
-## Reviewer
+## Teaching Area
 
-* 2022 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2022)
-
+* SN 5851 Dissertation I—Master’s student supervisor
+* SN 5061 Advanced Methods in Nursing Research
+* HSS 1010 Freshman Seminar
+* SN 2121 Fundamentals of Nursing Therapeutics I
+* SN 3713 Mental Health Education and Promotion
+* Final Year Research Project Supervision
+* Research student supervision
 ---
 
