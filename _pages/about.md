@@ -21,6 +21,8 @@ Education
   * PhD  (School of Nursing)
   
 
-Activities
+Research Interests
 ======
-* I love  *****
+* Spinal Cord Injury Rehabilitation
+* Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)
+* Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions
