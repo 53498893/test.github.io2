@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Services"
-permalink: /services/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from:
-  - /services
+  - /teaching
 ---
 
 ## Reviewer
