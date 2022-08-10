@@ -15,3 +15,5 @@ redirect_from:
 
 * Yu, B. Y., Lam, J. C., Lam, S. C., **Li, Y.**, Chen, S., Lam, M. Y., & Yeung, W. F. (2022). COVID-19 vaccine hesitancy and resistance in an urban Chinese population of Hong Kong: a cross-sectional study. Human vaccines & immunotherapeutics, 2072144. Advance online publication. https://doi.org/10.1080/21645515.2022.2072144
 
+* **Li, Y.**, Hildersley, R., Ho, G. W., Potts, L., & Henderson, C. (2021). Relationships between types of UK national newspapers, illness classification, and stigmatising coverage of mental disorders. Social Psychiatry and Psychiatric Epidemiology, 56(9), 1527-1535.
+
