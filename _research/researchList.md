@@ -21,9 +21,9 @@ redirect_from:
 
 * Greater Bay Area Nursing Forum: From Research to Clinical Practice Cum Workshop on Research Methods Training in Nursing. Principal Investigator, November 2021,  UGC Guangdong-Hong Kong-Macao University Alliance (GHMUA) Open Bid Funding.
 
-* Global Research Grant. Personal Research Development Fund,  King's College London
+* Global Research Grant. Personal Research Development Fund,  King's College London.
 
-* Effectiveness of peer-delivered interventions for people with severe mental illness: A systematic review. PI,  Professor Ida Martinson Fund, EAFONS
+* Effectiveness of peer-delivered interventions for people with severe mental illness: A systematic review. PI,  Professor Ida Martinson Fund, EAFONS.
  
 
 ## Projects as co-investigators
